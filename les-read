@@ -1,5 +1,5 @@
 
 npm init -y
 npm i --save react-scripts
-
 npm i --save react
+npm i --save react-dom
